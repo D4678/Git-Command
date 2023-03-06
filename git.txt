@@ -1,0 +1,17 @@
+First initialize Your Repo In the Github
+
+git init    (Initialize The Github and create a Folder)
+
+git add .  (add All of your files)
+
+git commit -m "Text your commit"  (Find the Repo)
+
+git config --global user.email "Your email"
+                                                   (these Two commandonly use the first time to connect the Github)
+git config --global user.name "Your username"
+
+git branch -M main
+
+(next command is copy of your repository and paste them)
+
+(Is also next command is copy of your repository and paste them)
